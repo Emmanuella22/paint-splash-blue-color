@@ -1,0 +1,33 @@
+.barcolor {
+    background-color: rgb(70, 70, 160);
+}
+
+.image1 {
+    margin-right: 15px;
+}
+
+.car {
+     margin-left: 26%; 
+}
+
+h2 {
+    color: rgb(70, 70, 160);
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.btn {
+    margin-top: 5%;
+    background-color: rgb(70, 70, 160);
+
+}
+
+.card-title {
+    color: rgb(70, 70, 160);
+}
+
+h4 {
+    color: rgb(70, 70, 160);
+}
+ .fish {
+     background-color: rgb(70, 70, 160); ;
+ }
